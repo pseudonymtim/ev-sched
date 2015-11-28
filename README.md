@@ -1,2 +1,2 @@
 # ev-sched
-Software to schedule interdependant events
+Software to schedule interdependant events with resources
